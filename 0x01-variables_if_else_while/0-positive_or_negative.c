@@ -3,6 +3,11 @@
 /* more headers goes there */
 #include <stdio.h>
 /* betty style doc for function main goes there */
+/* code that genrates
+ * random numbers and their 
+ */
+ 
+
 int main(void)
 {
 	int n;
