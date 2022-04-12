@@ -4,8 +4,7 @@
  *
  * Return: Always 0.
  */
-
-void main(void)
+void wmain(void)
 {
 	char ch;
 	int num = 0;
