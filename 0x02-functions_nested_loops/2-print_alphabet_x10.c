@@ -9,7 +9,8 @@ int main(void)
 {
 	char ch;
 	int num = 0;
-	while (num<10)
+	
+	while (num < 10)
 	{
 		for (ch = 'a'; ch <= 'z'; ch++)
 			_putchar(ch);
