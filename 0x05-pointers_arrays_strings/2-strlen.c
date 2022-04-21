@@ -5,6 +5,8 @@
  * _strlen -return length of a string
  *
  * @s: string
+ *
+ * Return: the size of the string
  */
 
 int _strlen(char *s)
