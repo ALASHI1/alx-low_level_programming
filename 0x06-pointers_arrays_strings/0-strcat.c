@@ -3,11 +3,11 @@
 /**
  * _strcat - to join two strings
  *
- * @dest - str1
+ * @dest: str1
  *
- * @src - srt2
+ * @src: srt2
  *
- * Returns - pointer
+ * Returns: pointer
  */
 
 char *_strcat(char *dest, char *src)
